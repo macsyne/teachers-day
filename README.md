@@ -12,7 +12,7 @@ It uses Tailwind CSS and Feather Icons for styling and visuals.
 When opened, it shows a fake "security breach" screen.  
 After interacting with it, it reveals a message saying Happy Teacher’s Day!
 
-\
+You can see the live site 👉https://macsyne.github.io/teachers-day/ 💚
 ---
 
 How to Run
@@ -24,4 +24,5 @@ How to Run
 
 Created by [Maxene]  
 Dedicated to Sir Randy 
+
 
